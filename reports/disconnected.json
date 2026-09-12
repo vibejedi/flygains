@@ -1,0 +1,1925 @@
+{
+  "mode": "disconnected",
+  "seed": 7,
+  "simulated_seconds": 0.9999999999999062,
+  "wall_seconds": 3.427996893999989,
+  "dataset": "male-cns:v1.0",
+  "neurons": 129,
+  "edges": 3813,
+  "readout_spikes": {
+    "right": 0,
+    "left": 0
+  },
+  "final_angles_rad": {
+    "left": 0.046993851917271276,
+    "right": 0.0307568219546297
+  },
+  "trace": [
+    {
+      "t": 0.0001,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.00010773672364294414,
+        "right": 0.00010438347150524
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0101,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0007068214182653017,
+        "right": 0.14972606019540904
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0201,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.09828301821588337,
+        "right": 0.031136231872760288
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0301,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.2984484671317347,
+        "right": 0.012990923410403352
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0401,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.13073871333603931,
+        "right": 0.07981226264357982
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0501,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.056868360799616643,
+        "right": 0.2011553827012761
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0601,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.024330555992674974,
+        "right": 0.12476079897630908
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0701,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.009998566028649864,
+        "right": -0.08519827799605352
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0801,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.13976599702986642,
+        "right": 0.40229996475787255
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.0901,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.4090767409998946,
+        "right": 0.1764554762549687
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1001,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.2521807130479439,
+        "right": 0.07699437900371019
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1101,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.5576437004781574,
+        "right": 0.0331908068710914
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1201,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.38865644695815976,
+        "right": 0.013899051023635247
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1301,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.3951824635484911,
+        "right": -0.018955054825721365
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1401,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.17333590626183945,
+        "right": 0.18442693487474857
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1501,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.07562849012231809,
+        "right": 0.33402765944310153
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1601,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.03259277622536154,
+        "right": 0.1582570608734492
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1701,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.013637494382182942,
+        "right": 0.2783596662853163
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1801,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.005288414880879174,
+        "right": 0.2967914912942741
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.1901,
+      "stimulus_hz": {
+        "left": 0.0,
+        "right": 0.0
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.0016110130084733304,
+        "right": 0.3083237518806687
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2001,
+      "stimulus_hz": {
+        "left": 159.9999479170442,
+        "right": 37.89244173222832
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -8.761500822780569e-06,
+        "right": 0.234973301179362
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2101,
+      "stimulus_hz": {
+        "left": 159.97847266757876,
+        "right": 41.89085480289497
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0007222014570079288,
+        "right": 0.10278148428651868
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2201,
+      "stimulus_hz": {
+        "left": 159.96896796497296,
+        "right": 43.65202635045079
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0010364376804578434,
+        "right": 0.0445550826146
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2301,
+      "stimulus_hz": {
+        "left": 159.96478163459665,
+        "right": 44.00122243738869
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0011748424876155423,
+        "right": 0.033010380407005595
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2401,
+      "stimulus_hz": {
+        "left": 159.96293778866797,
+        "right": 43.65858846511042
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012358021096598333,
+        "right": 0.04434670432121261
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2501,
+      "stimulus_hz": {
+        "left": 159.9621256843854,
+        "right": 35.3797974023009
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012626511889049109,
+        "right": 0.3180445352240232
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2601,
+      "stimulus_hz": {
+        "left": 159.96176800440128,
+        "right": 40.783563375561634
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001274476489446225,
+        "right": 0.1393898485339882
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2701,
+      "stimulus_hz": {
+        "left": 159.96161047109254,
+        "right": 43.16415306451016
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001279684716249187,
+        "right": 0.06068480959628804
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2801,
+      "stimulus_hz": {
+        "left": 159.96154108957478,
+        "right": 35.56676756587676
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012819785461896079,
+        "right": 0.31188844039056834
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.2901,
+      "stimulus_hz": {
+        "left": 159.96151053285126,
+        "right": 40.38591230741113
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001282988785137049,
+        "right": 0.15253662877543558
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3001,
+      "stimulus_hz": {
+        "left": 159.96149707554463,
+        "right": 39.54938139963639
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012834336983806307,
+        "right": 0.1802056924522379
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3101,
+      "stimulus_hz": {
+        "left": 159.96149114911745,
+        "right": 40.93625864370947
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012836296324408838,
+        "right": 0.13434120387016205
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3201,
+      "stimulus_hz": {
+        "left": 159.96148853933875,
+        "right": 41.74068800048535
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837159144758882,
+        "right": 0.10774598239858477
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3301,
+      "stimulus_hz": {
+        "left": 159.9614873901828,
+        "right": 41.01247308316872
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837539067453395,
+        "right": 0.13182138350321523
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3401,
+      "stimulus_hz": {
+        "left": 159.96148688423975,
+        "right": 38.06833317259412
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837706337148237,
+        "right": 0.2291583396217289
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3501,
+      "stimulus_hz": {
+        "left": 159.96148666152664,
+        "right": 41.96835162838333
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837779968107544,
+        "right": 0.1002193024365716
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3601,
+      "stimulus_hz": {
+        "left": 159.9614865635162,
+        "right": 38.579785491761044
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837812371137487,
+        "right": 0.21224902405977933
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3701,
+      "stimulus_hz": {
+        "left": 159.96148652040176,
+        "right": 42.68785548815237
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837826625035549,
+        "right": 0.07643166175261913
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3801,
+      "stimulus_hz": {
+        "left": 159.96148650144747,
+        "right": 39.39995743288336
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837832891395271,
+        "right": 0.1851332581047966
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.3901,
+      "stimulus_hz": {
+        "left": 159.96148649312232,
+        "right": 33.099667302142606
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837835643694849,
+        "right": 0.3934265694669269
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4001,
+      "stimulus_hz": {
+        "left": 159.9614864894708,
+        "right": 33.08279208743523
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837836850869417,
+        "right": 0.39398553464798164
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4101,
+      "stimulus_hz": {
+        "left": 159.96148648787255,
+        "right": 39.580314446885495
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837379225127,
+        "right": 0.17917082661495576
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4201,
+      "stimulus_hz": {
+        "left": 159.96148648717525,
+        "right": 30.44986550219083
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001283783760973287,
+        "right": 0.4810609636637016
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4301,
+      "stimulus_hz": {
+        "left": 159.9614864868725,
+        "right": 38.6126082878012
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837709802863,
+        "right": 0.211163891833142
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4401,
+      "stimulus_hz": {
+        "left": 159.96148648674207,
+        "right": 41.42754956020234
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837752915741,
+        "right": 0.11809876404330326
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4501,
+      "stimulus_hz": {
+        "left": 159.96148648668654,
+        "right": 43.44803583552157
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837771268116,
+        "right": 0.051299216748275485
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4601,
+      "stimulus_hz": {
+        "left": 159.96148648666335,
+        "right": 44.33797738209689
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837778930407,
+        "right": 0.021876731953115364
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4701,
+      "stimulus_hz": {
+        "left": 159.96148648665397,
+        "right": 44.72996483721267
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837782026713,
+        "right": 0.00891718173715899
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4801,
+      "stimulus_hz": {
+        "left": 159.96148648665041,
+        "right": 44.90262188312711
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783206236,
+        "right": 0.0032089424199397113
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.4901,
+      "stimulus_hz": {
+        "left": 159.9614864866492,
+        "right": 44.97867045903195
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783603837,
+        "right": 0.0006946766795000405
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5001,
+      "stimulus_hz": {
+        "left": 159.9614864866489,
+        "right": 44.987832004974955
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783698288,
+        "right": -0.0004127771821897233
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5101,
+      "stimulus_hz": {
+        "left": 159.96148648664894,
+        "right": 40.01805131966264
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783686488,
+        "right": 0.16469859568971965
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5201,
+      "stimulus_hz": {
+        "left": 159.96148648664905,
+        "right": 44.16134016927218
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783645938,
+        "right": 0.027704749394185626
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5301,
+      "stimulus_hz": {
+        "left": 159.9614864866492,
+        "right": 37.547099005662176
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783604698,
+        "right": 0.24639022881542982
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5401,
+      "stimulus_hz": {
+        "left": 159.96148648664928,
+        "right": 41.05020947326156
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001283783778357104,
+        "right": 0.13057332668888083
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5501,
+      "stimulus_hz": {
+        "left": 159.96148648664936,
+        "right": 37.6808001930121
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783546,
+        "right": 0.24197077035869838
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5601,
+      "stimulus_hz": {
+        "left": 159.96148648664942,
+        "right": 39.122888780387996
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783528157,
+        "right": 0.19429518018154424
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5701,
+      "stimulus_hz": {
+        "left": 159.96148648664945,
+        "right": 36.827641822606594
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783515828,
+        "right": 0.27017691945998157
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5801,
+      "stimulus_hz": {
+        "left": 159.96148648664948,
+        "right": 39.608109021535974
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0012837837783507432,
+        "right": 0.17922040425124297
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.5901,
+      "stimulus_hz": {
+        "left": 159.9614864866495,
+        "right": 39.86115407834428
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001283783778350176,
+        "right": 0.1698856008580512
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6001,
+      "stimulus_hz": {
+        "left": 159.9614864866495,
+        "right": 31.04503203774341
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001283783778349796,
+        "right": 0.4595478119018453
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6101,
+      "stimulus_hz": {
+        "left": 159.9614864866495,
+        "right": 36.02001669210393
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.001283783778349545,
+        "right": 0.30880741739918316
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6201,
+      "stimulus_hz": {
+        "left": 153.5696098009383,
+        "right": 36.24726949072229
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.2693391172090631,
+        "right": 0.28935669019021953
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6301,
+      "stimulus_hz": {
+        "left": 152.73851756683774,
+        "right": 41.166516772139694
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.24006210855118584,
+        "right": 0.12672873733600631
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6401,
+      "stimulus_hz": {
+        "left": 153.88392296081093,
+        "right": 43.33321921483849
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.2021939279488608,
+        "right": 0.05509514722705638
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6501,
+      "stimulus_hz": {
+        "left": 155.6935056310561,
+        "right": 44.28747559740943
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.14236709107424542,
+        "right": 0.023546352789771303
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6601,
+      "stimulus_hz": {
+        "left": 158.1247057817204,
+        "right": 44.707752225723084
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.06198889961201778,
+        "right": 0.009651546154527464
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6701,
+      "stimulus_hz": {
+        "left": 159.19554237088076,
+        "right": 44.89285376631943
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.026585808790304994,
+        "right": 0.003531883228864245
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6801,
+      "stimulus_hz": {
+        "left": 159.66720744910012,
+        "right": 44.974373293027135
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.010992021991485688,
+        "right": 0.000836756542804291
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.6901,
+      "stimulus_hz": {
+        "left": 159.6920677142198,
+        "right": 44.98972121455263
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.011279829875750002,
+        "right": -0.0003503192978193826
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7001,
+      "stimulus_hz": {
+        "left": 159.2679530946517,
+        "right": 44.97390703629188
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.024212713137383365,
+        "right": -0.0008731527983147244
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7101,
+      "stimulus_hz": {
+        "left": 158.4412468277453,
+        "right": 44.966944659462904
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.053440524217130796,
+        "right": -0.0011033198695152243
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7201,
+      "stimulus_hz": {
+        "left": 141.65250192913177,
+        "right": 44.963878706341944
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.606578592034538,
+        "right": -0.00120470573943692
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7301,
+      "stimulus_hz": {
+        "left": 151.9398803590508,
+        "right": 38.37151592525856
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.26646605175771876,
+        "right": 0.21913466040788238
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7401,
+      "stimulus_hz": {
+        "left": 156.47157403615418,
+        "right": 40.709780690487314
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.11664319484082898,
+        "right": -0.14185036564630144
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7501,
+      "stimulus_hz": {
+        "left": 158.4674831050459,
+        "right": 40.338460963154176
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.05065625059232261,
+        "right": 0.1670881635437755
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7601,
+      "stimulus_hz": {
+        "left": 159.34656479981598,
+        "right": 28.657888565761745
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.021592846705469824,
+        "right": 0.5402789839573531
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7701,
+      "stimulus_hz": {
+        "left": 156.6703318895098,
+        "right": 34.45375823095861
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.11007206739798844,
+        "right": 0.34865991609298935
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7801,
+      "stimulus_hz": {
+        "left": 144.78181371829166,
+        "right": 38.43849132158574
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.5031195145649072,
+        "right": 0.21692470950709564
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.7901,
+      "stimulus_hz": {
+        "left": 146.74346216991336,
+        "right": 42.13184415542485
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.4382650778010645,
+        "right": 0.09481384372632912
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8001,
+      "stimulus_hz": {
+        "left": 154.18324544242296,
+        "right": 43.758438165882964
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.19229790624464255,
+        "right": 0.041036901794027116
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8101,
+      "stimulus_hz": {
+        "left": 148.8634637992009,
+        "right": 44.47477777797812
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.3681773347642111,
+        "right": 0.017353931049923575
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8201,
+      "stimulus_hz": {
+        "left": 153.8242640743825,
+        "right": 44.790255886471094
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.20416687899498878,
+        "right": 0.006923878944591741
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8301,
+      "stimulus_hz": {
+        "left": 157.30047571614898,
+        "right": 44.929193061241385
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.08923903481412328,
+        "right": 0.002330464557543066
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8401,
+      "stimulus_hz": {
+        "left": 157.89051060745268,
+        "right": 44.990379768986664
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.06973239702559965,
+        "right": 0.00030757836554202355
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8501,
+      "stimulus_hz": {
+        "left": 156.27671754784697,
+        "right": 44.98267314848248
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.12577651747834745,
+        "right": -0.0005833408401588894
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8601,
+      "stimulus_hz": {
+        "left": 156.52173991833908,
+        "right": 44.97080455902706
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.11498481460058188,
+        "right": -0.0009757134126971457
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8701,
+      "stimulus_hz": {
+        "left": 157.59685520317294,
+        "right": 36.41365156262951
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.07946105383224608,
+        "right": 0.2838639317719936
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8801,
+      "stimulus_hz": {
+        "left": 158.9205650138977,
+        "right": 41.82914364862187
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.035697767755610635,
+        "right": 0.10482166200042224
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.8901,
+      "stimulus_hz": {
+        "left": 159.5030914532178,
+        "right": 42.409074344581896
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.01643881538843663,
+        "right": -0.0856694340807455
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9001,
+      "stimulus_hz": {
+        "left": 159.75962407714738,
+        "right": 44.78009191788981
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.007957570063287043,
+        "right": 0.007593845570537725
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9101,
+      "stimulus_hz": {
+        "left": 159.8725961093523,
+        "right": 32.93718584328225
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.004222592677820635,
+        "right": 0.3987984412669424
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9201,
+      "stimulus_hz": {
+        "left": 159.922346971355,
+        "right": 36.689167251068056
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.0025777754041530717,
+        "right": 0.27475496009942535
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9301,
+      "stimulus_hz": {
+        "left": 154.84988771783446,
+        "right": 41.361073807094755
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.17025787248521015,
+        "right": 0.12029654883583346
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9401,
+      "stimulus_hz": {
+        "left": 155.15348550868214,
+        "right": 43.41875463628287
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.1602394943481769,
+        "right": 0.05226727337490282
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9501,
+      "stimulus_hz": {
+        "left": 157.06321409704424,
+        "right": 31.785467910905062
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.09708321525314445,
+        "right": 0.4369333031331841
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9601,
+      "stimulus_hz": {
+        "left": 158.72743209144878,
+        "right": 26.310793971167875
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.042062125258706756,
+        "right": 0.6178763438220986
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9701,
+      "stimulus_hz": {
+        "left": 159.4609515814674,
+        "right": 33.79460654672512
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.0178111007329298,
+        "right": 0.3705656496706288
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9801,
+      "stimulus_hz": {
+        "left": 153.98576459047166,
+        "right": 40.08544357613307
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": -0.21776359485074448,
+        "right": 0.16247046164185616
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    },
+    {
+      "t": 0.9901,
+      "stimulus_hz": {
+        "left": 156.75185547178427,
+        "right": 42.856377043822256
+      },
+      "rates_hz": {
+        "right": 0.0,
+        "left": 0.0
+      },
+      "angles_rad": {
+        "left": 0.10737725133338602,
+        "right": 0.07086018921570901
+      },
+      "commands": {
+        "left": 0.0,
+        "right": 0.0
+      }
+    }
+  ],
+  "limitations": [
+    "Tethered body; not walking or lifting",
+    "Partial MaleCNS circuit",
+    "Synthetic input and rate-to-foreleg bridge",
+    "No biological validation"
+  ]
+}
