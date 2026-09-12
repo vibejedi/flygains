@@ -1,1 +1,15 @@
-{"name":"fly-gym","private":true,"type":"module","scripts":{"test":"node tests/model.test.mjs"}}
+{
+  "name": "fly-gym",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/model.test.mjs",
+    "build": "esbuild dist/scene.js --bundle --minify --outfile=dist/scene.bundle.js"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.9"
+  }
+}
