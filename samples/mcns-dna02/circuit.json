@@ -1,0 +1,966 @@
+{
+  "dataset": "male-cns:v1.0",
+  "neurons": [
+    {
+      "id": "10005",
+      "type": "AOTU019",
+      "instance": "AOTU019_R",
+      "vfb_id": "VFB_jrmc3hk6",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "10070",
+      "type": "AOTU019",
+      "instance": "AOTU019_L",
+      "vfb_id": "VFB_jrmc3hk5",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "10116",
+      "type": "VES074",
+      "instance": "VES074_L",
+      "vfb_id": "VFB_jrmc079g",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "10360",
+      "type": "DNa02",
+      "instance": "DNa02_R",
+      "vfb_id": "VFB_jrmc37lz",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "10406",
+      "type": "AOTU012",
+      "instance": "AOTU012_R",
+      "vfb_id": "VFB_jrmc3hj5",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "10501",
+      "type": "GNG284",
+      "instance": "GNG284(hb1821378236)_L",
+      "vfb_id": "VFB_jrmc2tq8",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "10868",
+      "type": "LAL083",
+      "instance": "LAL083_R",
+      "vfb_id": "VFB_jrmc2csa",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "10920",
+      "type": "GNG100",
+      "instance": "GNG100_R",
+      "vfb_id": "VFB_jrmc2tfh",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "10971",
+      "type": "DNa11",
+      "instance": "DNa11(VES008)_L",
+      "vfb_id": "VFB_jrmc37mi",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "10975",
+      "type": "DNa03",
+      "instance": "DNa03_R",
+      "vfb_id": "VFB_jrmc37m2",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11142",
+      "type": "PS059",
+      "instance": "PS059_R",
+      "vfb_id": "VFB_jrmc1jk6",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "11216",
+      "type": "PS230",
+      "instance": "PS230(PLP242)_R",
+      "vfb_id": "VFB_jrmc1jvj",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11233",
+      "type": "DNa11",
+      "instance": "DNa11(VES008)_R",
+      "vfb_id": "VFB_jrmc37mh",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11306",
+      "type": "PS013",
+      "instance": "PS013_L",
+      "vfb_id": "VFB_jrmc1jgo",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11371",
+      "type": "PS013",
+      "instance": "PS013_R",
+      "vfb_id": "VFB_jrmc1jgn",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11416",
+      "type": "LAL083",
+      "instance": "LAL083_R",
+      "vfb_id": "VFB_jrmc2csc",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "11441",
+      "type": "PS322",
+      "instance": "PS322_L",
+      "vfb_id": "VFB_jrmc1k0q",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "11443",
+      "type": "AN04B003",
+      "instance": "AN04B003(11443)_R",
+      "vfb_id": "VFB_jrmc3g3x",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11495",
+      "type": "PS059",
+      "instance": "PS059_R",
+      "vfb_id": "VFB_jrmc1jk5",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "11610",
+      "type": "DNae007",
+      "instance": "DNae007(VES009)_R",
+      "vfb_id": "VFB_jrmc37n5",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11625",
+      "type": "DNae005",
+      "instance": "DNae005(VES009)_R",
+      "vfb_id": "VFB_jrmc37n1",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "11636",
+      "type": "LAL126",
+      "instance": "LAL126_L",
+      "vfb_id": "VFB_jrmc2cwh",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "11750",
+      "type": "LAL083",
+      "instance": "LAL083_L",
+      "vfb_id": "VFB_jrmc2csb",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "11795",
+      "type": "LAL083",
+      "instance": "LAL083_L",
+      "vfb_id": "VFB_jrmc2csd",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "12086",
+      "type": "GNG562",
+      "instance": "GNG562_R",
+      "vfb_id": "VFB_jrmc2uc7",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "12110",
+      "type": "PLP029",
+      "instance": "PLP029_R",
+      "vfb_id": "VFB_jrmc1in9",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "12135",
+      "type": "GNG100",
+      "instance": "GNG100_L",
+      "vfb_id": "VFB_jrmc2tfg",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "12187",
+      "type": "VES074",
+      "instance": "VES074_R",
+      "vfb_id": "VFB_jrmc079f",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "12206",
+      "type": "LAL120_a",
+      "instance": "LAL120_a_R",
+      "vfb_id": "VFB_jrmc2cw3",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "12232",
+      "type": "GNG515",
+      "instance": "GNG515_R",
+      "vfb_id": "VFB_jrmc2u9l",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "12910",
+      "type": "LAL051",
+      "instance": "LAL051_R",
+      "vfb_id": "VFB_jrmc2cq5",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "12938",
+      "type": "PS011",
+      "instance": "PS011_R",
+      "vfb_id": "VFB_jrmc1jgm",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13137",
+      "type": "AN03A008",
+      "instance": "AN03A008_R",
+      "vfb_id": "VFB_jrmc3g33",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13157",
+      "type": "PS230",
+      "instance": "PS230(PLP242)_R",
+      "vfb_id": "VFB_jrmc1jvg",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13183",
+      "type": "VES070",
+      "instance": "VES070_R",
+      "vfb_id": "VFB_jrmc0798",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13273",
+      "type": "LAL081",
+      "instance": "LAL081_R",
+      "vfb_id": "VFB_jrmc2cs6",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13291",
+      "type": "PS230",
+      "instance": "PS230(PLP242)_L",
+      "vfb_id": "VFB_jrmc1jvi",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13538",
+      "type": "AN03A008",
+      "instance": "AN03A008_L",
+      "vfb_id": "VFB_jrmc3g32",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13598",
+      "type": "VES070",
+      "instance": "VES070_L",
+      "vfb_id": "VFB_jrmc0797",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "13656",
+      "type": "AN04B003",
+      "instance": "AN04B003(11443)_L",
+      "vfb_id": "VFB_jrmc3g3u",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14040",
+      "type": "LAL081",
+      "instance": "LAL081_L",
+      "vfb_id": "VFB_jrmc2cs7",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14123",
+      "type": "VES072",
+      "instance": "VES072_L",
+      "vfb_id": "VFB_jrmc079b",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14191",
+      "type": "VES072",
+      "instance": "VES072_R",
+      "vfb_id": "VFB_jrmc079c",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14192",
+      "type": "LAL051",
+      "instance": "LAL051_L",
+      "vfb_id": "VFB_jrmc2cq4",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "14200",
+      "type": "PS018_a",
+      "instance": "PS018_a_R",
+      "vfb_id": "VFB_jrmc1jgr",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14259",
+      "type": "LAL046",
+      "instance": "LAL046_R",
+      "vfb_id": "VFB_jrmc2cpg",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "14438",
+      "type": "LAL304m",
+      "instance": "LAL304m_L",
+      "vfb_id": "VFB_jrmc2d3i",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14493",
+      "type": "VES071",
+      "instance": "VES071_R",
+      "vfb_id": "VFB_jrmc0799",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14498",
+      "type": "AN04B003",
+      "instance": "AN04B003(14379)_L",
+      "vfb_id": "VFB_jrmc3g3t",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14746",
+      "type": "LAL304m",
+      "instance": "LAL304m_L",
+      "vfb_id": "VFB_jrmc2d3k",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14766",
+      "type": "SAD085",
+      "instance": "SAD085_L",
+      "vfb_id": "VFB_jrmc1ayu",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14784",
+      "type": "CB0431",
+      "instance": "CB0431_R",
+      "vfb_id": "VFB_jrmc3f9k",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "14986",
+      "type": "LAL010",
+      "instance": "LAL010_L",
+      "vfb_id": "VFB_jrmc2cm0",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "15078",
+      "type": "PS183",
+      "instance": "PS183_R",
+      "vfb_id": "VFB_jrmc1jsg",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "15602",
+      "type": "GNG515",
+      "instance": "GNG515_L",
+      "vfb_id": "VFB_jrmc2u9m",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "15614",
+      "type": "VES073",
+      "instance": "VES073_L",
+      "vfb_id": "VFB_jrmc079d",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "15957",
+      "type": "GNG521",
+      "instance": "GNG521_R",
+      "vfb_id": "VFB_jrmc2u9y",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "16327",
+      "type": "GNG521",
+      "instance": "GNG521_L",
+      "vfb_id": "VFB_jrmc2u9x",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "16843",
+      "type": "GNG569",
+      "instance": "GNG569_R",
+      "vfb_id": "VFB_jrmc2ucm",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "16897",
+      "type": "AN04B003",
+      "instance": "AN04B003(16897)_R",
+      "vfb_id": "VFB_jrmc3g3v",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "17461",
+      "type": "AOTU015",
+      "instance": "AOTU015_R",
+      "vfb_id": "VFB_jrmc3hjg",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "17685",
+      "type": "LAL300m",
+      "instance": "LAL300m_L",
+      "vfb_id": "VFB_jrmc2d2z",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "17713",
+      "type": "AN04B003",
+      "instance": "AN04B003(16897)_L",
+      "vfb_id": "VFB_jrmc3g3s",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "18026",
+      "type": "AOTU016_a",
+      "instance": "AOTU016_a_R",
+      "vfb_id": "VFB_jrmc3hjk",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "18745",
+      "type": "LAL300m",
+      "instance": "LAL300m_R",
+      "vfb_id": "VFB_jrmc2d2w",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "18817",
+      "type": "LAL301m",
+      "instance": "LAL301m_R",
+      "vfb_id": "VFB_jrmc2d31",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "19586",
+      "type": "LAL179",
+      "instance": "LAL179_R",
+      "vfb_id": "VFB_jrmc2d0n",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "20755",
+      "type": "LAL300m",
+      "instance": "LAL300m_R",
+      "vfb_id": "VFB_jrmc2d2x",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "20804",
+      "type": "IB068",
+      "instance": "IB068_R",
+      "vfb_id": "VFB_jrmc2uql",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "22373",
+      "type": "PVLP201m_c",
+      "instance": "PVLP201m_c_R",
+      "vfb_id": "VFB_jrmc1kjv",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "25054",
+      "type": "VES051",
+      "instance": "VES051_R",
+      "vfb_id": "VFB_jrmc078d",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "29860",
+      "type": "PS049",
+      "instance": "PS049_R",
+      "vfb_id": "VFB_jrmc1jja",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "30801",
+      "type": "LAL179",
+      "instance": "LAL179_L",
+      "vfb_id": "VFB_jrmc2d0k",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "31330",
+      "type": "PS049",
+      "instance": "PS049_L",
+      "vfb_id": "VFB_jrmc1jjb",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "33335",
+      "type": "DNpe024",
+      "instance": "DNpe024(CL325)_L",
+      "vfb_id": "VFB_jrmc30tx",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "38847",
+      "type": "LAL046",
+      "instance": "LAL046_L",
+      "vfb_id": "VFB_jrmc2cph",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "41961",
+      "type": "VES052",
+      "instance": "VES052_L",
+      "vfb_id": "VFB_jrmc078h",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "47023",
+      "type": "CRE015",
+      "instance": "CRE015_L",
+      "vfb_id": "VFB_jrmc34rw",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "47107",
+      "type": "SAD085",
+      "instance": "SAD085_R",
+      "vfb_id": "VFB_jrmc1ayv",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "51658",
+      "type": "PS018_a",
+      "instance": "PS018_a_L",
+      "vfb_id": "VFB_jrmc1jgp",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "57832",
+      "type": "CB0431",
+      "instance": "CB0431_L",
+      "vfb_id": "VFB_jrmc3f9l",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "63004",
+      "type": "VES051",
+      "instance": "VES051_L",
+      "vfb_id": "VFB_jrmc078f",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "82205",
+      "type": "LAL179",
+      "instance": "LAL179_L",
+      "vfb_id": "VFB_jrmc2d0o",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "86571",
+      "type": "VES051",
+      "instance": "VES051_R",
+      "vfb_id": "VFB_jrmc078g",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "89545",
+      "type": "LAL301m",
+      "instance": "LAL301m_L",
+      "vfb_id": "VFB_jrmc2d32",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "99043",
+      "type": "LAL028",
+      "instance": "LAL028_L",
+      "vfb_id": "VFB_jrmc2cnm",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "200284",
+      "type": "LAL040",
+      "instance": "LAL040_R",
+      "vfb_id": "VFB_jrmc2coy",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "512392",
+      "type": "LAL011",
+      "instance": "LAL011_R",
+      "vfb_id": "VFB_jrmc2cm2",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "513160",
+      "type": "PS186",
+      "instance": "PS186_R",
+      "vfb_id": "VFB_jrmc1jsk",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "513388",
+      "type": "PLP228",
+      "instance": "PLP228_L",
+      "vfb_id": "VFB_jrmc1j3z",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "513565",
+      "type": "GNG284",
+      "instance": "GNG284_R",
+      "vfb_id": "VFB_jrmc2tq7",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "513888",
+      "type": "LAL029_a",
+      "instance": "LAL029_a_L",
+      "vfb_id": "VFB_jrmc2cno",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "514053",
+      "type": "LAL011",
+      "instance": "LAL011_L",
+      "vfb_id": "VFB_jrmc2cm3",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "514988",
+      "type": "PS059",
+      "instance": "PS059_L",
+      "vfb_id": "VFB_jrmc1jk3",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "515859",
+      "type": "VES052",
+      "instance": "VES052_L",
+      "vfb_id": "VFB_jrmc078j",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "516361",
+      "type": "AOTU025",
+      "instance": "AOTU025_L",
+      "vfb_id": "VFB_jrmc3hkk",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "516502",
+      "type": "PS183",
+      "instance": "PS183_L",
+      "vfb_id": "VFB_jrmc1jsf",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "516911",
+      "type": "PS230",
+      "instance": "PS230(PLP242)_L",
+      "vfb_id": "VFB_jrmc1jvh",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "519129",
+      "type": "LAL010",
+      "instance": "LAL010_R",
+      "vfb_id": "VFB_jrmc2cm1",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "519228",
+      "type": "DNae005",
+      "instance": "DNae005(VES009)_L",
+      "vfb_id": "VFB_jrmc37n2",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "519399",
+      "type": "PS059",
+      "instance": "PS059_L",
+      "vfb_id": "VFB_jrmc1jk4",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "519413",
+      "type": "PLP029",
+      "instance": "PLP029_L",
+      "vfb_id": "VFB_jrmc1in8",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "519461",
+      "type": "LAL018",
+      "instance": "LAL018_L",
+      "vfb_id": "VFB_jrmc2cmg",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "519624",
+      "type": "DNa03",
+      "instance": "DNa03_L",
+      "vfb_id": "VFB_jrmc37m1",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "519925",
+      "type": "LAL040",
+      "instance": "LAL040_L",
+      "vfb_id": "VFB_jrmc2coz",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "519926",
+      "type": "AOTU025",
+      "instance": "AOTU025_R",
+      "vfb_id": "VFB_jrmc3hkj",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "519944",
+      "type": "LAL124",
+      "instance": "LAL124_L",
+      "vfb_id": "VFB_jrmc2cwd",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "519982",
+      "type": "VES071",
+      "instance": "VES071_L",
+      "vfb_id": "VFB_jrmc079a",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "520117",
+      "type": "GNG562",
+      "instance": "GNG562_L",
+      "vfb_id": "VFB_jrmc2uc8",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "521190",
+      "type": "DNae007",
+      "instance": "DNae007(VES009)_L",
+      "vfb_id": "VFB_jrmc37n6",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "521377",
+      "type": "DNpe024",
+      "instance": "DNpe024(CL325)_R",
+      "vfb_id": "VFB_jrmc30tw",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "521525",
+      "type": "LAL126",
+      "instance": "LAL126_R",
+      "vfb_id": "VFB_jrmc2cwj",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "523716",
+      "type": "LAL120_a",
+      "instance": "LAL120_a_L",
+      "vfb_id": "VFB_jrmc2cw2",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "523769",
+      "type": "DNa02",
+      "instance": "DNa02_L",
+      "vfb_id": "VFB_jrmc37m0",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "524159",
+      "type": "PS011",
+      "instance": "PS011_L",
+      "vfb_id": "VFB_jrmc1jgl",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "524483",
+      "type": "LAL126",
+      "instance": "LAL126_R",
+      "vfb_id": "VFB_jrmc2cwi",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "524894",
+      "type": "LAL179",
+      "instance": "LAL179_R",
+      "vfb_id": "VFB_jrmc2d0m",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "526218",
+      "type": "VES052",
+      "instance": "VES052_R",
+      "vfb_id": "VFB_jrmc078i",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "529573",
+      "type": "VES051",
+      "instance": "VES051_L",
+      "vfb_id": "VFB_jrmc078e",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "529641",
+      "type": "LAL018",
+      "instance": "LAL018_R",
+      "vfb_id": "VFB_jrmc2cmh",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "529710",
+      "type": "LAL126",
+      "instance": "LAL126_L",
+      "vfb_id": "VFB_jrmc2cwg",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "530153",
+      "type": "PLP228",
+      "instance": "PLP228_R",
+      "vfb_id": "VFB_jrmc1j3y",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "530155",
+      "type": "PS322",
+      "instance": "PS322(hb5813078223)_R",
+      "vfb_id": "VFB_jrmc1k0r",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "531861",
+      "type": "PS186",
+      "instance": "PS186_L",
+      "vfb_id": "VFB_jrmc1jsj",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "531863",
+      "type": "AOTU012",
+      "instance": "AOTU012_L",
+      "vfb_id": "VFB_jrmc3hj6",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "532947",
+      "type": "VES073",
+      "instance": "VES073_R",
+      "vfb_id": "VFB_jrmc079e",
+      "transmitter": "acetylcholine"
+    },
+    {
+      "id": "547554",
+      "type": "VES052",
+      "instance": "VES052_R",
+      "vfb_id": "VFB_jrmc078k",
+      "transmitter": "glutamate"
+    },
+    {
+      "id": "802999",
+      "type": "IN12B014",
+      "instance": "IN12B014_L",
+      "vfb_id": "VFB_jrmc2s3v",
+      "transmitter": "gaba"
+    },
+    {
+      "id": "803110",
+      "type": "IN12B014",
+      "instance": "IN12B014_R",
+      "vfb_id": "VFB_jrmc2s3u",
+      "transmitter": "gaba"
+    }
+  ],
+  "readouts": {
+    "right": 3,
+    "left": 113
+  },
+  "inputs": {
+    "right": [
+      9,
+      14,
+      20,
+      32,
+      41,
+      51,
+      57,
+      119
+    ],
+    "left": [
+      13,
+      37,
+      42,
+      56,
+      80,
+      99,
+      102,
+      103
+    ]
+  },
+  "edges": 3813,
+  "omitted_transmitter_edges": 0,
+  "source_files": [
+    {
+      "name": "body-annotations-male-cns-v1.0-minconf-0.5.feather",
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/body-annotations-male-cns-v1.0-minconf-0.5.feather",
+      "bytes": 14483314,
+      "sha256": "2177e246113e4cfbf1e7772ec37c6da1955ff22e8063d0b1f833101f99a9a3b2",
+      "downloaded_at": "2026-09-12T00:25:55.154957+00:00"
+    },
+    {
+      "name": "body-neurotransmitters-male-cns-v1.0.feather",
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/body-neurotransmitters-male-cns-v1.0.feather",
+      "bytes": 43282834,
+      "sha256": "95c9289220663abeb3409f3ad9e5a7f8a53f8093f5139d15502cd08da8879621",
+      "downloaded_at": "2026-09-12T00:26:05.759436+00:00"
+    },
+    {
+      "name": "connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+      "bytes": 1051241946,
+      "sha256": "e35da783d1c686b2b58b3b87cd6a403ae43bfcfba8bff28e08ef752c1a56afc1",
+      "downloaded_at": "2026-09-12T00:26:33.919702+00:00"
+    }
+  ],
+  "selection": "Top 64 annotated incoming partners per DNa02 plus both DNa02, induced subgraph.",
+  "limitations": [
+    "Partial circuit, not whole brain",
+    "ACh excitatory; GABA and glutamate inhibitory by modeling convention; other transmitters omitted",
+    "Stimulated upstream partners are not asserted to be sensory neurons",
+    "DNa02-to-foreleg actuation is an artificial test bridge, not a biological motor mapping"
+  ]
+}

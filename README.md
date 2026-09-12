@@ -2,7 +2,7 @@
 
 A tiny autonomous fly gym, with a roadmap toward a real connectome-driven embodied simulation.
 
-**Current status:** the web app is a synthetic-controller prototype. It does not emulate the male fly brain, run MuJoCo, or train a learning policy. Imported connections influence a simplified recurrent model; they do not establish biological fidelity.
+**Current status:** a real-connectivity, spiking-neuron + MuJoCo tethered-body experiment is now included in `simulation/`. See [run instructions and measured results](docs/run-simulation.md). The deployed web app remains a synthetic-controller prototype. It does not emulate the male fly brain, run MuJoCo, or train a learning policy. Imported connections influence a simplified recurrent model; they do not establish biological fidelity.
 
 ## Run the web prototype
 
@@ -35,4 +35,4 @@ Input provenance is user-declared. Incoming absolute weights are normalized per 
 
 ## Validation
 
-Model tests cover all-station autonomous activity, energy and fatigue bounds, rep accounting, graph validation and normalization. Browser visual QA and live WebMCP execution have not been performed. Full MCNS downloads and brain/body integration have not been run.
+Model tests cover all-station autonomous activity, energy and fatigue bounds, rep accounting, graph validation and normalization. Browser visual QA and live WebMCP execution have not been performed. The separate experimental integration has been run using a real 129-neuron MaleCNS subset and FlyBody. Its measured results and limitations are in [the simulation guide](docs/run-simulation.md).

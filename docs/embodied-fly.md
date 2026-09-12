@@ -1,6 +1,6 @@
 # From FlyGains prototype to an embodied fly simulation
 
-Research checked 12 September 2026. This is an implementation plan, not a claim that the integration already works.
+Research checked 12 September 2026. This is the original implementation plan. A first tethered real-connectivity integration is now implemented and tested; see [current run instructions](run-simulation.md). The broader milestones below remain a roadmap.
 
 ## What the available resources actually provide
 
@@ -36,8 +36,8 @@ A fly whose real MaleCNS-derived network changes its locomotion when it senses a
 
 ## Access and provenance
 
-[The official MaleCNS download page](https://male-cns.janelia.org/download/) supplies public bulk files as well as an authenticated neuPrint API route. Codex sign-in is therefore not a prerequisite for bulk acquisition. The supplied downloader uses the official public files, not scraped authenticated pages. The annotations endpoint returned HTTP 200 during this setup; full files have not been downloaded or inspected here.
+[The official MaleCNS download page](https://male-cns.janelia.org/download/) supplies public bulk files as well as an authenticated neuPrint API route. Codex sign-in is therefore not a prerequisite for bulk acquisition. The supplied downloader uses the official public files, not scraped authenticated pages. The annotations endpoint returned HTTP 200 during this setup; the three full files have since been downloaded and inspected, and a traceable subset is bundled in `samples/mcns-dna02/`.
 
 MaleCNS data attribution: FlyEM at HHMI Janelia, University of Cambridge, MRC Laboratory of Molecular Biology, and Google Research. The official dataset is offered under CC-BY; consult its release page and manuscript for citation details. Our local hashes detect later changes; they are not publisher-provided authenticity checks.
 
-No brain runtime, learned lifting policy, body asset bundle or continuous backend has been installed by this repository initialization. The browser prototype remains unchanged.
+Update: `simulation/` now includes a small spiking network, a tethered FlyBody adapter and a local interactive server. The browser prototype remains unchanged; free locomotion and learned lifting remain unimplemented.
